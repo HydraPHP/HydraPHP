@@ -1,5 +1,4 @@
 #include "jit.h"
-#include "hydra.h"
 #include "zend_compile.h"
 #include "profiling.h"
 
